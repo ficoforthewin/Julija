@@ -37,7 +37,6 @@ for i=1:1:30
         println(i)
     end
 end
-println("word")
 ##8
 str="Volim studirati u zagrebu"
 count=0
